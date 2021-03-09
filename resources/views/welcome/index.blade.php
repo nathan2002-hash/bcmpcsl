@@ -97,13 +97,13 @@
         <div class="d-block d-flex">
           <div class="media-body pl-3">
             <h3 class="heading">Construction</h3>
-            <p>Roofing of all kinds building, installation of sealing board</p>
+            <p>Roofing of all kinds building, installation of sealing board and many more.</p>
           </div>
         </div>
         <div class="d-block d-flex">
           <div class="media-body pl-3">
             <h3 class="heading">Carpently and Joinery</h3>
-            <p>We manufacture chairs tables sofa of all kinds, kitchen units, school boards.</p>
+            <p>We manufacture chairs, tables, sofa of all kinds, kitchen units, school boards and the like.</p>
           </div>
         </div>
       </div>
