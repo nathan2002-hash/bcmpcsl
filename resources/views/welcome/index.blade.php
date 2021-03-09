@@ -88,7 +88,7 @@
         <div class="d-block d-flex">
           <div class="media-body pl-3">
             <h3 class="heading">Agriculture</h3>
-            <p>Manufacture of window flames, door flames using booth sliding gates one using electric motor and manual, truces for roofing bill boards etc.</p>
+            <p>We are dealing in agriculture and animal husbandry (poultry, piggery, cattle and goat rearing etc.) Under gardening we grow all kinds of vegetables rape, Chinese, cabbage, onions, tomatoes, egg plants Irish potatoes Etc.</p>
           </div>
         </div>
 
@@ -97,13 +97,13 @@
         <div class="d-block d-flex">
           <div class="media-body pl-3">
             <h3 class="heading">Construction</h3>
-            <p>We manufacture chairs tables sofa of all kinds, kitchen units, pantry school boards, roofing of all kinds building, installation of sealing board</p>
+            <p>Roofing of all kinds building, installation of sealing board</p>
           </div>
         </div>
         <div class="d-block d-flex">
           <div class="media-body pl-3">
             <h3 class="heading">Carpently and Joinery</h3>
-            <p>We manufacture chairs tables sofa of all kinds, kitchen units, pantry school boards, roofing of all kinds building, installation of sealing board.</p>
+            <p>We manufacture chairs tables sofa of all kinds, kitchen units, school boards.</p>
           </div>
         </div>
       </div>
